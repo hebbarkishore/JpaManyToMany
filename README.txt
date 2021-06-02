@@ -19,5 +19,5 @@ StudentCourseRegEntity (Table = student_course_registration) has the following,
 STUDENT_ID ( is a foreign key references to student.id)
 COURSE_ID (  is a foreign key references to course.id )
 SCORE
-
+------
 
